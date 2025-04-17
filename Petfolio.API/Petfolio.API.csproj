@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Petfolio.Communication\Petfolio.Communication.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Petfolio.API.http" />
+  </ItemGroup>
+
 </Project>
